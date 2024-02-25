@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\DotNetAppDevRepos\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\OneDRV_BKUP\\CT\\DevOps\\GitHub\\devops-masterclass\\Module-04_Continuous_Integration\\03-Azure_Pipelines\\src-code\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\test\\DotNetAppDevRepos\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\OneDRV_BKUP\\CT\\DevOps\\GitHub\\devops-masterclass\\Module-04_Continuous_Integration\\03-Azure_Pipelines\\src-code\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\DotNetAppDevRepos\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\OneDRV_BKUP\\CT\\DevOps\\GitHub\\devops-masterclass\\Module-04_Continuous_Integration\\03-Azure_Pipelines\\src-code\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\test\\DotNetAppDevRepos\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\OneDRV_BKUP\\CT\\DevOps\\GitHub\\devops-masterclass\\Module-04_Continuous_Integration\\03-Azure_Pipelines\\src-code\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\ServerX\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\DotNetAppDevRepos\\WebApplication1\\obj\\",
+        "outputPath": "D:\\OneDRV_BKUP\\CT\\DevOps\\GitHub\\devops-masterclass\\Module-04_Continuous_Integration\\03-Azure_Pipelines\\src-code\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ServerX\\AppData\\Roaming\\NuGet\\NuGet.Config",
